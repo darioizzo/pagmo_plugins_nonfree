@@ -12,7 +12,7 @@ pagmo documentation can be found here https://esa.github.io/pagmo2/
 
 Version compatibility
 =====================
-WARNING: **plugin compatible with worhp 1.12** and **snopt <= 7.7** (with the snopt7_c interface built by the github project snopt-interface, commit 76b166ecdf5c55a3289ce0f849d8d3d101954a22 if the snopt version is < 7.7). It will not work with worhp 1.13. FOr snopt, the minor version must now be selected upon construction as to select the correct snopt API.
+WARNING: **plugin compatible with worhp 1.12** and **snopt <= 7.7** (with the snopt7_c interface built by the github project snopt-interface, commit 76b166ecdf5c55a3289ce0f849d8d3d101954a22 if the snopt version is < 7.7). It will not work with worhp 1.13. For snopt, the minor version must now be selected upon construction as to select the correct snopt API.
 
 If anyone needs us to develop plugins for those versions vote up the related issues.
 
